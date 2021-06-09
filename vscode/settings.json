@@ -1,0 +1,16 @@
+{
+  "workbench.colorTheme": "Nord",
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+  },
+  // "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "'Fira Code Retina', Fira Code, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  // "editor.fontWeight": null,
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "terminal.integrated.tabs.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
